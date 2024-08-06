@@ -27,7 +27,7 @@
           <a href="#emoji"><img height="20px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/emoji.svg">Emoji</a><br>
           <a href="#html"><img height="20px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/html.svg">HTML</a><br>
           <a href="#characters"><img height="20px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/characters.svg">Characters</a><br>
-          <a href="#mathfonts"><img height="20px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/fonts.svg">Math Fonts</a><br>
+          <a href="#mathtext"><img height="20px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/fonts.svg">Math Styling Text</a><br>
           <a href="#math"><img height="20px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/math.svg">Math Blocks</a><br>
           <a href="#diagrams"><img height="20px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/diagrams.svg">Diagrams</a><br>
           <a href="#charts"><img height="20px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/charts.svg">Charts</a><br>
@@ -1333,7 +1333,8 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 ---
 <br>
 
-## <img height="32px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/fonts.svg"><a id="mathfonts">Math Fonts</a><a href="#markdownguide"><img align="right" height="32px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/top.svg"></a>
+## <img height="32px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/fonts.svg"><a id="mathtext">Math Styling Text</a><a href="#markdownguide"><img align="right" height="32px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/top.svg"></a>
+## Fonts
 ### Sans Serif <kbd>4 style</kbd>
 ```
 $\symsf{This\ is\ Regular\ mathematical\ font}$
