@@ -1747,6 +1747,42 @@ $\symbf{This\ is\ a\ _{\symtt{subscript}}\ text}$
 ### $\symbf{This\ is\ a\ _{\symtt{subscript}}\ text}$
 
 ---
+### Annotation Symbols
+```
+$\bar{y}$
+$\hat{y}$
+$\check{y}$
+$\tilde{y}$
+$\dot{y}$
+$\ddot{y}$
+```
+
+Custom Symbols
+```
+$\stackrel{𖩯}{y}$
+$\stackrel{⟷}{y}$
+$\stackrel{👑}{y}$
+```
+***Example:***
+
+<h3>
+$\bar{y}$
+$\hat{y}$
+$\check{y}$
+$\tilde{y}$
+$\dot{y}$
+$\ddot{y}$
+</h3>
+
+Custom Symbols
+
+<h3>
+$\stackrel{𖩯}{y}$
+$\stackrel{⟷}{y}$
+$\stackrel{👑}{y}$
+</h3>
+
+---
 <br>
 
 ## <img height="32px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/math.svg"><a id="math">Math Blocks</a><a href="#markdownguide"><img align="right" height="32px" src="https://github.com/andrew-manzyk/markdown-guide/blob/master/(Assets)/icons/top.svg"></a>
